@@ -33,3 +33,23 @@ By preparing augmented image datasets, object detection models can be trained to
 ---
 
 ## Repository Structure
+
+
+---
+
+## Key Outcomes
+- Modular image processing function
+- Augmented image samples for model training
+- Visualization of transformation effects
+- Reproducible preprocessing workflow
+
+---
+
+## Certification
+This project is part of a verified DataCamp learning experience.  
+Certificate and verification details are available in the `docs/` directory.
+
+---
+
+## Author
+Ahmed Saeed
